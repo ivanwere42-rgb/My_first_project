@@ -1,0 +1,6 @@
+1. Add new files to project
+2. Unstage a file using git restore --staged
+3. Commit the staged file
+4. Stage notes.txt and make a second commit
+5. Explore commit history with git log
+6. Push all changes to GitHub
